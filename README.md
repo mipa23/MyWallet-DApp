@@ -2,13 +2,13 @@
 
 ## Getting Started
 
-1. Get MetaMask Chrome Extension and Setup Wallet
+1. Get MetaMask Chrome Extension and Setup Wallet <br />
 [MetaMask](https://chrome.google.com/webstore/detail/metamask/nkbihfbeogaeaoehlefnkodbefgpgknn?hl=de)
 
-2. Get Funds from faucet rinkeby
+2. Get Funds from faucet rinkeby <br />
 [Faucet](https://faucet.rinkeby.io/)
 
-3. Open DApp
+3. Open DApp <br />
 [MyWallet-DApp](https://mipa23.github.io/MyWallet/)
 
 ## Smart Contract
