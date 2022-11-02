@@ -5,16 +5,16 @@
 1. Get MetaMask Chrome Extension and Setup Wallet <br />
 [MetaMask](https://chrome.google.com/webstore/detail/metamask/nkbihfbeogaeaoehlefnkodbefgpgknn?hl=de)
 
-2. Get Funds from faucet rinkeby <br />
-[Faucet](https://faucet.rinkeby.io/)
+2. Get Funds from faucet <br />
+[Faucet](https://faucets.chain.link/)
 
 3. Open DApp <br />
 [MyWallet-DApp](https://mipa23.github.io/MyWallet/)
 
 ## Smart Contract
 
-#### Rinkeby Link:
-[Rinkeby Contract](https://rinkeby.etherscan.io/address/0xe92C92050D4828C8856ABF674Ec0B0e3734Cb737)
+#### Goerli Link:
+[Goerli Contract](https://goerli.etherscan.io/address/0x7baa703ebb48639816dc85198689e111acdc94bb)
 
 #### Address:
-0xe92C92050D4828C8856ABF674Ec0B0e3734Cb737
+0x7bAa703ebb48639816dC85198689e111acDC94bb
